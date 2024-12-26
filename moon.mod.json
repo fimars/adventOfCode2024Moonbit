@@ -1,0 +1,6 @@
+{
+  "name": "advent-of-code-2024",
+  "deps": {
+    "moonbitlang/x": "0.4.16"
+  }
+}
